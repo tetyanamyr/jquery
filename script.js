@@ -1,3 +1,4 @@
+header('Content-Type: application/javascript');
 $(document).ready(function(){
 $("#loaderDiv").hide();
     
